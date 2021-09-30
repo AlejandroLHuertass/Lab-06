@@ -13,3 +13,8 @@
 ### Link
 
 https://cvds-hss.herokuapp.com/faces/calculadora.xhtml
+
+### Integrantes
+
+- Steven Alejandro Huertas Lemus
+- Carlos Alberto Sorza Gomez
